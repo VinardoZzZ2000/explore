@@ -33,6 +33,7 @@ items:
  - OpenRCT2/OpenRCT2
  - xenko3d/xenko
  - lance-gg/lance
+ - armory3d/armory
 display_name: Game Engines
 created_by: leereilly
 ---
